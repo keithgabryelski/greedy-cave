@@ -1,0 +1,15 @@
+* present tense vs. past tense.  "a chest appears" or "a chest appeared"
+* some words: 
+* british words "bloody", "bloke"
+* punctuation outside of quotations
+* oxford commas
+* when do lines end with a period vs. no punctuation
+* is Dark Gold supposed to be Orange?
+* Owdritu -- what is this actually?
+* % numbers are sometimes not consistent
+ maybe use * 105 percent instead of +0.5%
+* caves vs. mines
+* devil vs demon
+* flame gates vs flame door
+* The Homonculus vs. "Homunculus"
+
