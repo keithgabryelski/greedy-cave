@@ -16,3 +16,26 @@
 * biu, heng, miao, heng
 * whisp vs. wisp (will 'o the wisp)
 * plural forms of Phenex and Glutomy and such
+* what is this supposed to say:
+  4613: "Do you know football players c ? where are you?",
+  4614: "Spain",
+  4615: "Portugal",
+  4616: "Austria",
+  4617: "Croatia",
+* what is this supposed to say:
+  4631: "You know what denomination the sermons that Kindle is brochure, please?",
+  4632: "Christian",
+  4633: "Islam",
+  4634: "Buddhism",
+  4635: "Catholic",
+* which speed is requested here? escape earth? escape solar system? escape galaxy?
+  4662: "you know the rocket launches Sputnik speed should be at least in the horizontal direction is?",
+  4663: "automatic",
+  4664: "ratiocination",
+  4665: "the third Cosmic Velocity",
+  4666: "part IV cosmic speed",
+* this doesn't have an answer:
+  4703: "Which country has the largest percentage of self-identified religous people?",
+  4704: "Israel",
+  4705: "India",
+  4706: "Nepal",
