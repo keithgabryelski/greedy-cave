@@ -589,10 +589,16 @@ var svrSpecial = {
   569: "You've got more important things to do. Besides, it could be a trap.",
   570: "The Orcs eye flash with rage, but he soon succumbs to his wounds. On his body you find 200 Gold, and an item!",
   571: "Wrong! Your deduction skills need work, kid.",
-  572: "There's a thief, and I caught 4 suspects.A: “None of us stole anything!” B: “Someone from the 4 of us stole something.” C: “Only one of us did not steal anything.” D: “I did not steal anything.”  If only two of them are telling the truth, which two?",
-  573: "A and D",
-  574: "B and C",
-  575: "A and C",
+  572:
+    "There's a thief, and I caught 4 suspects.\n" +
+    "Ⓐ “None of us stole anything!”\n" +
+    "Ⓑ “Someone from the 4 of us stole something.”\n" +
+    "Ⓒ “Only one of us did not steal anything.”\n" +
+    "Ⓓ “I did not steal anything.”\n" +
+    "If only two of them are telling the truth, which two?",
+  573: "Ⓐ and Ⓓ",
+  574: "Ⓑ and Ⓒ",
+  575: "Ⓐ and Ⓒ",
   576: "Wrong! Your deduction skills need work, kid.",
   577: "Correct! The path has been cleared for you. Here is your reward!",
   578: "Fate is not easy to realize. Complete this challenge and you may yet have a chance to seize your destiny.",
@@ -633,10 +639,16 @@ var svrSpecial = {
   613: "Spirits from dead adventurers wander around.  They were asked to choose a power, ice, poison, mana burn, or slow.  If you want to get out of here alive you must get stronger, or else you don't even stand a chance.",
   614: "Thank you for giving me the heads up",
   615: "Incorrect!",
-  616: "There's a thief, and I caught 4 suspects.A: “None of us stole anything!” B: “Someone from the 4 of us stole something.” C: “Only one of us did not steal anything.” D: “I did not steal anything.”  If only two of them are telling the truth, which two?",
-  617: "A and D",
-  618: "B and C",
-  619: "A and C",
+  616:
+    "There's a thief, and I caught 4 suspects.\n" +
+    "Ⓐ “None of us stole anything!”\n" +
+    "Ⓑ “Someone from the 4 of us stole something.”\n" +
+    "Ⓒ “Only one of us did not steal anything.”\n" +
+    "Ⓓ “I did not steal anything.”\n" +
+    "If only two of them are telling the truth, which two?",
+  617: "Ⓐ and Ⓓ",
+  618: "Ⓑ and Ⓒ",
+  619: "Ⓐ and Ⓒ",
   620: "Wrong! Your deduction skills need work, kid.",
   621: "Correct! The path has been cleared for you. Here is your reward!",
   622: "Ice Overseer appeared",
@@ -5166,7 +5178,13 @@ var svrExcel = {
   4275: "Let me ask you something, kid. Do you think you're here by accident?",
   4276: "Adventurer, the 'right' path will take you to the next level, but it's blocked. Complete the challenge on the 'left' path to continue.",
   4277: "Good answer. Here is a wooden key, open the door on the left.",
-  4278: "There's a thief, and I caught 4 suspects.A: “None of us stole anything!” B: “Someone from the 4 of us stole something.” C: “Only one of us did not steal anything.” D: “I did not steal anything.”  If only two of them are telling the truth, which two?",
+  4278:
+    "There's a thief, and I caught 4 suspects.\n" +
+    "Ⓐ “None of us stole anything!”\n" +
+    "Ⓑ “Someone from the 4 of us stole something.”\n" +
+    "Ⓒ “Only one of us did not steal anything.”\n" +
+    "Ⓓ “I did not steal anything.”\n" +
+    "If only two of them are telling the truth, which two?",
   4279: "Wrong! Your deduction skills need work, kid. ",
   4280: "Not bad kid, I see you know your stuff. Take this, it might help you out.",
   4281: "Listen kid, I don't know what you're doing here, or where you're trying to go.",
@@ -11229,7 +11247,7 @@ var clientTs = {
   139: "200 Crystals",
   140: "500 Crystals",
   141: "1000 Crystals",
-  142: "you have not yet purchased the privilege should not use",
+  142: "you have not yet purchased the privilege to use",
   143: "buy ",
   144: " Bag",
   145: "Rune Attributes",
@@ -11239,13 +11257,13 @@ var clientTs = {
   149: "combination properties",
   150: "(repeated activation invalid)",
   151: "not set",
-  152: "Connection to greedy… Reconnecting…",
+  152: "Connection lost to greedy caves… Reconnecting…",
   153: "This account has been blocked. Please contact Customer Support.",
   154: "server maintenance",
   155: "Your account is logged in on another device.",
   156: "Login failed, please try again.",
   157: "Server full. Thank you for your patience.",
-  158: "Connection to greedy… Reconnecting…",
+  158: "Connection lost to greedy caves… Reconnecting…",
   159: "normal",
   160: "Come adventurers! Check out what we have in store for you.",
   161: "Max. # of floors",
