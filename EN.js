@@ -220,7 +220,7 @@ var svrSpecial = {
   219: "Guy de Maupassant",
   220: "Mark Twain",
   221: "Imagine you're in a dark room that is perfectly empty with nothing in it. There are no windows or doors. What is the easiest way to escape?",
-  222: "Dig a hold in the ground with your bare hands",
+  222: "Dig a hole in the ground with your bare hands",
   223: "Stop imagining you are in that room",
   224: "Die",
   225: "Wait",
