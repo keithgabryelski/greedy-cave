@@ -96,3 +96,10 @@
   6130: "Can open Subtoth dropped equipment",
 
 * floor naming -- NNN floor vs floor NNN
+  9201: "You see the floating Sould of Hollow?",
+ 9487: "Pombaa",
+ 
+  96: "The current breaklv is: ",
+
+
+  162: "Greedy Cave scense and monsters",
