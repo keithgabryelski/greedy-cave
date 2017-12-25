@@ -39,3 +39,60 @@
   4704: "Israel",
   4705: "India",
   4706: "Nepal",
+* what is this supposed to say:
+  4721: "Do you know where Coca Cola rises?",
+  4722: "Argentina",
+  4723: "Cuba",
+* what is CunCun
+  4817: "Ancient Cuncun",
+* what
+  4863: "Ancient Stings",
+
+  4876: "Ancient Ship ship",
+
+  4928: "Ancient Hsveico ",
+
+  5348: "How many floors in abyss led appear?",
+
+  5440:
+    "Qing love players: \n" +
+    "Rogue's Light: The Greedy Cave has just been updated!\n" +
+    "“ Content you Hua “\n" +
+    "1. you Hua split-runs combat capabilities \n" +
+    "2. you Hua adventure-fantasy fan mist Forestplay \n" +
+    "3. the fantasy advanture-Archaeological site you Hua San Jose play \n" +
+    "4. you Hua role're part storm Shem avoidance rate increase click rate data bit follows \n" +
+
+* is this "return to where you've been" or "you are foolish to return to here"
+  5514: "Elite Swordy: Fools! Return!",
+
+  5617: "Thor's injury caused by a Flash attack less than 100",
+  5618: "Get out of the way",
+  5619: "Defeat Subtoth all Warrior damage is less than 100000",
+
+  5662: "Casting powerful hammer",
+
+  5664: "Restless soul calm. ",
+
+  5665: "Monsters ball",
+
+  5669: "empty stabbed",
+
+  5750: "God Scepter cuish ",
+
+  5851: "eternal dark inflammation",
+
+  5970: "remember, there resounds!",
+
+  6121: "Can open Dark Prince dropped equipment",
+  6122: "Can open Giant Bore Worm dropped equipment",
+  6123: "Can open Kraken dropped equipment",
+  6124: "Can open Satan dropped equipment",
+  6125: "Can open Cultist dropped equipment",
+  6126: "Can open Homunculus dropped equipment",
+  6127: "Can open Dr. Heimfeld dropped equipment",
+  6128: "Can open Dark Prince dropped equipment",
+  6129: "Can open Thor dropped equipment",
+  6130: "Can open Subtoth dropped equipment",
+
+* floor naming -- NNN floor vs floor NNN
