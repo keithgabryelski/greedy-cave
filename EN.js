@@ -6958,7 +6958,8 @@ var svrExcel = {
   6028: "Are the creatures down here natural, or do you find something… strange about them? ",
   6029: "Let's say I had an apple, and you really wanted my apple. How do you proceed? ",
   6030: "Listen up kid, this one is gonna be quick. How many points in a pentagram?",
-  6031: "There's a thief, and I caught 4 suspects.\n" +
+  6031:
+    "There's a thief, and I caught 4 suspects.\n" +
     "Ⓐ “None of us stole anything!”\n" +
     "Ⓑ “Someone from the 4 of us stole something.”\n" +
     "Ⓒ “Only one of us did not steal anything.”\n" +
