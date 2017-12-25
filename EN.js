@@ -1158,7 +1158,7 @@ var svrExcel = {
   297: "Cohen's Treasure",
   298: "Collect “Cohen's Treasure” Equipment Set",
   299: "Outrage",
-  300: "“Collect “Outrage” Equipment Set",
+  300: "Collect “Outrage” Equipment Set",
   301: "Infinity Tower Ⅰ",
   302: "Infinity Tower Floor 40 Cleared",
   303: "Infinity Tower Ⅱ",
@@ -1488,7 +1488,7 @@ var svrExcel = {
   627: "Ice Thorn",
   628: "What is the best way to keep your hands warm?",
   629: "Meat Grinder",
-  630: "I’m Hungry……",
+  630: "I’m Hungry…",
   631: "Armageddon",
   632: "Have the power to split everything in half.",
   633: "Tyrannical",
@@ -1507,7 +1507,7 @@ var svrExcel = {
   646: "Robe of Insight",
   647: "Magnificently Mysterious.",
   648: "Skull Armor",
-  649: "Swear by my life and glory……",
+  649: "Swear by my life and glory…",
   650: "Woody's Fire Cloak",
   651: "This armor has been forged by iron and steel.",
   652: "Matthew's Soul Eater",
@@ -6339,14 +6339,14 @@ var svrExcel = {
   5440:
     "Qing love players: \n" +
     "Rogue's Light: The Greedy Cave has just been updated!\n" +
-    "“ Content you Hua “\n" +
+    "Content you Hua \n" +
     "1. you Hua split-runs combat capabilities \n" +
     "2. you Hua adventure-fantasy fan mist Forestplay \n" +
     "3. the fantasy advanture-Archaeological site you Hua San Jose play \n" +
     "4. you Hua role're part storm Shem avoidance rate increase click rate data bit follows \n" +
     "5. the increases I'm Ying find shortcut down click for terms 1, 2, 3, 4\n" +
     "6. when there is a new chat content time, Mein chat Seattle standard right angle on small round little prompting \n" +
-    "“ Encountered problem fixed “\n" +
+    " Encountered problem fixed \n" +
     "1. the fixed airport is shown in the main city only encountered the problem of the interface \n" +
     "2. repair the airport only encountered problems not \n" +
     "3. the fixed Wang Luo yan Chi lead deadbeef encountered back problems \n" +
@@ -6381,7 +6381,7 @@ var svrExcel = {
     "Floor One【Castle Entrance】 \n" +
     "Defeat the monsters and find the passage to the next Floor.",
   5457:
-    "Floor Two 【Castle Corridor】 “\n" +
+    "Floor Two 【Castle Corridor】 \n" +
     "Defeat the horrid monsters and find your way.",
   5458:
     "Floor Three 【Castle Tower】\n" + "This is where the real test beings.",
@@ -6560,7 +6560,7 @@ var svrExcel = {
   5630: "Collect Diary “The Hunt Pages”",
   5631: "Collect Diary “The Unravelling Pages”",
   5632: "Collect Diary “The End Pages”",
-  5633: "Collect Diary“ The Madness Pages”",
+  5633: "Collect Diary “The Madness Pages”",
   5634: "Find two Pots",
   5635: "Found two Pots ",
   5636: "Defeat Fire Wisp",
@@ -9884,7 +9884,7 @@ var svrExcel = {
   8694: "波蘭",
   8695: "Who was starring as captain america in the movie Captain America?",
   8696: "Chris Evans",
-  8697: "I start with “T”, ends with “T”, and within me is “T”. What am I??",
+  8697: "I start with “T”, ends with “T”, and within me is “T”. What am I?",
   8698: "Teabag",
   8699: "Teapot",
   8700: "My first half means container. Not a lot of people understand my language. What am I??",
@@ -10435,7 +10435,7 @@ var svrExcel = {
   9243: "You are such a great adventurer who cannot be deceived by money. This is your reward. (+100 Gold)",
   9244: "You make up yourself to look like a monster to get into the cave. You see that your old friends are attacking a group of monsters when you get in. Now you have two choices:",
   9245: "This is a touching scene, all of you are being attacked by the monsters.(-5 Max HP)",
-  9246: "“'Stay calm' talking to yourself and passing by, but didn't realize that there is a cave in front of you and dropped inside.(Back to last level)",
+  9246: "“Stay calm” talking to yourself and passing by, but didn't realize that there is a cave in front of you and dropped inside.(Back to last level)",
   9247: "It's definitely you.",
   9248: "Of course, it's me.",
   9249: "That certainly has something to do with my perfect appearance.",
@@ -10823,7 +10823,7 @@ var svrLua = {
   72: "Congratulations defeated Dark Prince ",
   73: "Congratulations cleared Expedition 1 ",
   74: "Congratulations cleared Expedition 2 ",
-  75: "Dear {1}：\n Congratulations you have Cleared Floor 20N The adventure has just begun: \n “Rune“ Find the Blacksmith and learn about the power of the Runes.\n “Greedy Challenge“ New challenges with great Rune rewards! \n What are you waiting for? Let's go!",
+  75: "Dear {1}：\n Congratulations you have Cleared Floor 20N The adventure has just begun: \n “Rune” Find the Blacksmith and learn about the power of the Runes.\n “Greedy Challenge” New challenges with great Rune rewards! \n What are you waiting for? Let's go!",
   76: "Dear {1}: \n Adventurers! \n Ready for more? : \n＂Expedition II＂ is ready! More monsters, more treasures, more equipment, and more to explore! \n Ready for your next challenge?",
   77: "Dear {1}: \n Congratulations! You have unlocked \n＂Expedition III ＂\n A new chapter with new maps, new monsters, and new equipment! \n The encounter begins!",
   78: "Feature locked!",
@@ -10921,7 +10921,7 @@ var svrLua = {
   170: "Congratulations <font color='#6c460a'>{1}</font><font color='#000000'>:</font>activated VIP VIII",
   171: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>had some luck and found rare treasures.",
   172: "<font color='#6c460a'>{1} '</font><font color='#000000'>:</font>reached level 70. Can anyone stop them?",
-  173: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>was very lucky and received <font color='#EB7B29'>“{2}“</font><font color='#000000'>:</font>now who is BOSS?",
+  173: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>was very lucky and received <font color='#EB7B29'>“{2}”</font><font color='#000000'>:</font>now who is BOSS?",
   174: "Received Crystals{1}",
   175: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>got a new Week Card! They can now claim rewards daily.",
   176: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>got a new Month Card! They can now claim great rewards daily.",
@@ -11093,11 +11093,11 @@ var clientTs = {
   3: "Are you sure you want to Leave？",
   4: "Congratulations, adventurer. ",
   5: "But you don't think it is over, right?",
-  6: "The secret has finally been solved……",
+  6: "The secret has finally been solved…",
   7: "【",
-  8: "The name spread throughout the city……",
-  9: "The adventure will never stop … …",
-  10: "Because evil will come back … …",
+  8: "The name spread throughout the city…",
+  9: "The adventure will never stop …",
+  10: "Because evil will come back …",
   11: "Tap the screen to continue",
   12: "Let's go baby",
   13: "Although I have short legs, but my face",
@@ -11132,12 +11132,12 @@ var clientTs = {
   42: "Location unavailable",
   43: "Auto",
   44: "Auto-attack",
-  45: "The room cannot be generated. .",
+  45: "The room cannot be generated.",
   46: "Crystal less than \n.",
   47: "Checkpoint",
   48: "A glowing treasure chest. There must be rare item inside. \nConsume ",
   49: "Crystal to open?",
-  50: "My strength … … Finally … … Free … … ",
+  50: "My strength … Finally … Free … ",
   51: "complete __ __ goals",
   52: "__ __ daily task is Completed",
   53: "Bag Full",
@@ -11163,7 +11163,7 @@ var clientTs = {
   73: "Weakness",
   74: "SPD: Med",
   75: "Boogley",
-  76: "Crimson Boogley with doom, the tip of each leg is burning flame, vicious by nature, like hibernating in the dark, a chance it will appear surrounded by enemies, Pointe high temperatures did not hesitate to end the enemy's life. \n “they sometimes suddenly appeared in droves, blink can burn their prey, then quickly broken away. “-Businessman Cohen",
+  76: "Crimson Boogley with doom, the tip of each leg is burning flame, vicious by nature, like hibernating in the dark, a chance it will appear surrounded by enemies, Pointe high temperatures did not hesitate to end the enemy's life. \n “they sometimes suddenly appeared in droves, blink can burn their prey, then quickly broken away.” -Businessman Cohen",
   77: "Old Mine",
   78: "Doomsday Jungle",
   79: "Hydro Mine",
@@ -11267,7 +11267,7 @@ var clientTs = {
   177: "Castle death",
   178: "1 Rune *1~2",
   179: "Small HP Potion*1",
-  180: "co-location“ bonus Preview ",
+  180: "co-location bonus Preview ",
   181: "Law of Effect: target 1% defense",
   182: "1 method",
   183: "Rune is full",
@@ -11586,7 +11586,7 @@ var clientTs = {
   496: "Activate Badge",
   497: "Well well well… look what we have here.\n",
   498: "Confirm activation “ ",
-  499: "“ keep all VIP from before? \n Total cost is",
+  499: "” keep all VIP from before? \n Total cost is",
   500: " Crystals\n ",
   501: "(Cost will be adjusted according to time left)",
   502: "(Activate VIP first",
@@ -11693,9 +11693,9 @@ var clientTs = {
   603: "double-click",
   604: "Enchant",
   605: "Now the real \nadventure begins!",
-  606: "“ \n total activation cost.",
+  606: "” \n total activation cost.",
   607: " ?",
-  608: "the fall is the best remedy……",
+  608: "the fall is the best remedy…",
   609: "After the death of your distant relative, no one can figure out what is going on with this curse.",
   610: "But adventurers around the world will continue to explore until the land restores it's peace.",
   611: "your name will last forever …",
