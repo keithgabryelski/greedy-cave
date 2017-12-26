@@ -4,6 +4,7 @@ module.exports = {
     },
     "extends": "eslint:recommended",
     "rules": {
+        "no-unused-vars": "off",
         "accessor-pairs": "error",
         "array-bracket-newline": "error",
         "array-bracket-spacing": "error",
