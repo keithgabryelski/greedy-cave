@@ -6559,7 +6559,7 @@ var svrExcel = {
   5611: "Wow, that's super harsh. What did I ever do to you? ",
   5612: "Thor Ⅰ",
   5613: "Defeat Thor ",
-  5614: "Subtoth",
+  5614: "Subtoth I",
   5615: "Defeat Subtoth",
   5616: "Anodyne",
   5617: "Thor's injury caused by a Flash attack less than 100",
