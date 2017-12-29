@@ -4632,75 +4632,215 @@ var svrExcel = {
     "over me. Luckily, he agreed without\n" +
     "hesitation. He must be really dedicated to\n" +
     "his work.",
-  3577: "I think I might take the time to read the book Heimfeld is writing. He's been working here so long, it must be really interesting.",
+  3577:
+    "I think I might take the time to read\n" +
+    "the book Heimfeld is writing. He's been\n" +
+    "working here so long, it must be really\n" +
+    "interesting.",
   3578: "Page 23",
-  3579: "Last time I saw him, Heimfeld gave me a gift. A sort of statuette - He said it brings forth new things into this world, and symbolizes rebirth of the old. I guess he meant it as a suggestion that I should do something worthwhile in my old age, now that I have so much money.",
+  3579:
+    "Last time I saw him, Heimfeld gave me a\n" +
+    "gift. A sort of statuette - He said it\n" +
+    "brings forth new things into this world,\n" +
+    "and symbolizes rebirth of the old. I\n" +
+    "guess he meant it as a suggestion that\n" +
+    "I should do something worthwhile in my\n" +
+    "old age, now that I have so much money.",
   3580: "Page 24",
-  3581: "The figurine he gave me is of a man, cloaked and hooded, but of strong stature. I wonder who it represents.",
+  3581:
+    "The figurine he gave me is of a man,\n" +
+    "cloaked and hooded, but of strong stature.\n" +
+    "I wonder who it represents.",
   3582: "Page 25",
-  3583: "I hadn't given it much thought, but seeing that statuette on my mantle every day… It's started to creep me out. Almost like it watches me as I pass.",
+  3583:
+    "I hadn't given it much thought, but seeing\n" +
+    "that statuette on my mantle every day… It's\n" +
+    "started to creep me out. Almost like it\n" +
+    "watches me as I pass.",
   3584: "Page 26",
-  3585: "I could have sworn the statuette was of a man. Yet what I saw today was no representation of man, but of ungodly beast! I couldn't describe the shape, it was like nothing I'd ever seen before…",
+  3585:
+    "I could have sworn the statuette was of a man.\n" +
+    "Yet what I saw today was no representation of\n" +
+    "man, but of ungodly beast! I couldn't describe\n" +
+    "the shape, it was like nothing I'd ever seen\n" +
+    "before…",
   3586: "Page 27",
-  3587: "I didn't even go downstairs today, for fear of looking at that damned statuette. I must be getting paranoid, but I dare not verify.",
+  3587:
+    "I didn't even go downstairs today, for fear of\n" +
+    "looking at that damned statuette. I must be\n" +
+    "getting paranoid, but I dare not verify.",
   3588: "Page 28",
-  3589: "I stumbled in the dark with a blanket, in an attempt to cover the figurine, hide it from sight. In my stupor, I fumbled the statuette, causing it to fall and shatter into a thousand pieces… At least it's gone now. I Hope Heimfeld will forgive me.",
+  3589:
+    "I stumbled in the dark with a blanket, in an\n" +
+    "attempt to cover the figurine, hide it from\n" +
+    "sight. In my stupor, I fumbled the statuette,\n" +
+    "causing it to fall and shatter into a thousand\n" +
+    "pieces… At least it's gone now. I hope\n" +
+    "Heimfeld will forgive me.",
   3590: "Page 29",
-  3591: "I haven’t seen Dr. Heimfeld in weeks. He must be enthralled with his research. I hadn’t realized, but I don’t think I’ve had a real conversation with anyone other than him in months… Perhaps I’ll have a stroll outside.",
+  3591:
+    "I haven’t seen Dr. Heimfeld in weeks. He must\n" +
+    "be enthralled with his research. I hadn’t\n" +
+    "realized, but I don’t think I’ve had a real\n" +
+    "conversation with anyone other than him in\n" +
+    "months…\n" +
+    "Perhaps I’ll have a stroll outside.",
   3592: "Page 30",
-  3593: "The town is almost completely deserted. The caravans are still there, but they refused to speak to me. They just said they didn't want to be bothered. That their fee had been paid and to leave them alone.",
+  3593:
+    "The town is almost completely deserted. The\n" +
+    "caravans are still there, but they refused to\n" +
+    "speak to me. They just said they didn't want\n" +
+    "to be bothered. That their fee had been\n" +
+    "paid and to leave them alone.",
   3594: "Page 31",
-  3595: "I can't remember the last time I spoke to Heimfeld. I went to the mines, but the workers there barred me from entering. Said the professor was mighty busy.",
+  3595:
+    "I can't remember the last time I spoke to\n" +
+    "Heimfeld. I went to the mines, but the workers\n" +
+    "there barred me from entering. Said the\n" +
+    "professor was mighty busy.",
   3596: "Page 32",
-  3597: "There was a strange look in their eyes… Almost like fear, but determined to the bone all the same. It was unnerving.",
+  3597:
+    "There was a strange look in their eyes…\n" +
+    "Almost like fear, but determined to the bone\n" +
+    "all the same. It was unnerving.",
   3598: "Page 33",
-  3599: "Everyone is shunning me. I haven't had a conversation with a real person in what feels like a month, I've lost count.",
+  3599:
+    "Everyone is shunning me. I haven't had a\n" +
+    "conversation with a real person in what feels\n" +
+    "like a month, I've lost count.",
   3600: "Page 34",
-  3601: "I don't understand what is going on, but it seems I'm on my own dealing with this madness.",
+  3601:
+    "I don't understand what is going on, but it\n" +
+    "seems I'm on my own dealing with this madness.",
   3602: "Page 35",
-  3603: "The sheriff came around the other day asking for a missing person last seen in the company of Dr. Heimfeld.",
+  3603:
+    "The sheriff came around the other day asking\n" +
+    "for a missing person last seen in the company\n" +
+    "of Dr. Heimfeld.",
   3604: "Page 36",
-  3605: "So many people come through here wanting to explore the mines, how can I be expected to remember them all. I told him he was welcome to go check himself. He didn’t seem too keen.",
+  3605:
+    "So many people come through here wanting to\n" +
+    "explore the mines, how can I be expected to\n" +
+    "remember them all. I told him he was welcome\n" +
+    "to go check himself. He didn’t seem too keen.",
   3606: "Page 37",
-  3607: "A corpse turned up in the forest near the mines. Could it be the missing person the Sheriff was asking about a few days ago?",
+  3607:
+    "A corpse turned up in the forest near the\n" +
+    "mines. Could it be the missing person the\n" +
+    "Sheriff was asking about a few days ago?",
   3608: "Page 38",
-  3609: "Lawmen are all over the place, swarming the grounds like ants. I guess the missing person was important somehow? More likely, just another poor soul.",
+  3609:
+    "Lawmen are all over the place, swarming the\n" +
+    "grounds like ants. I guess the missing person\n" +
+    "was important somehow? More likely, just\n" +
+    "another poor soul.",
   3610: "Page 39",
-  3611: "They've mounted a full investigation. I told them about the mines, but I didn't tell them anything about Dr. Heimfeld…",
+  3611:
+    "They've mounted a full investigation. I told\n" +
+    "them about the mines, but I didn't tell them\n" +
+    "anything about Dr. Heimfeld…",
   3612: "Page 40",
-  3613: "Perhaps I should have, but he's always paid his outrageous fees on time or in advance. I owe it to him to keep his research quiet…",
+  3613:
+    "Perhaps I should have, but he's always paid\n" +
+    "his outrageous fees on time or in advance. I\n" +
+    "owe it to him to keep his research quiet…",
   3614: "Page 41",
-  3615: "They said the body had been dead for at least three weeks, but I thought I saw that man just a few days before the Sheriff questioned me about it…",
+  3615:
+    "They said the body had been dead for at least\n" +
+    "three weeks, but I thought I saw that man\n" +
+    "just a few days before the Sheriff questioned\n" +
+    "me about it…",
   3616: "Page 42",
-  3617: "I'm trying not to think about it. I can't comprehend… ",
+  3617: "I'm trying not to think about it. I can't\n" + "comprehend… ",
   3618: "Page 43",
-  3619: "It doesn't add up, none of this makes any sense. Am I going mad?",
+  3619:
+    "It doesn't add up, none of this makes any\n" + "sense. Am I going mad?",
   3620: "Page 44",
-  3621: "I can't sleep. What could have done that to a corpse in a matter of days? It looked like it had the life drained right out of it.",
+  3621:
+    "I can't sleep. What could have done that to\n" +
+    "a corpse in a matter of days? It looked like\n" +
+    "it had the life drained right out of it.",
   3622: "Page 45",
-  3623: "There’s definitely something strange going on here… something… ",
+  3623: "There’s definitely something strange going on\n" + "here… something… ",
   3624: "Page 46",
-  3625: "I been trying not to think about it, but it’s deeply unsettling. What’s going on down there?",
+  3625:
+    "I been trying not to think about it, but it’s\n" +
+    "deeply unsettling. What’s going on down there?",
   3626: "Page 47",
-  3627: "Haven't seen a single lawman in days. Did they give up? Perhaps they were paid off? They left without a word, suddenly gone.",
+  3627:
+    "Haven't seen a single lawman in days. Did they\n" +
+    "give up? Perhaps they were paid off? They\n" +
+    "left without a word, suddenly gone.",
   3628: "Page 48",
-  3629: "More corpses are turning up. No one is reporting these people missing, and no one seems to be looking for them. Just what is going on around here?",
+  3629:
+    "More corpses are turning up. No one is\n" +
+    "reporting these people missing, and no one\n" +
+    "seems to be looking for them. Just what is\n" +
+    "going on around here?",
   3630: "Page 49",
-  3631: "From my estate, perched at my window I can see the comings and goings of the mine. They haul out a dozen bags every day, but no bags ever seem to be going in…",
+  3631:
+    "From my estate, perched at my window I can see\n" +
+    "the comings and goings of the mine. They haul\n" +
+    "out a dozen bags every day, but no bags ever\n" +
+    "seem to be going in…",
   3632: "Page 50",
-  3633: "The bags… They must be hiding something, but what? Are they hauling out the earth itself or is it something else?",
+  3633:
+    "The bags… They must be hiding something, but\n" +
+    "what? Are they hauling out the earth itself or\n" +
+    "is it something else?",
   3634: "Page 51",
-  3635: "He’s done it. Dr. Heimfeld must have achieved what he came for. There was an explosion and what felt like an earthquake, followed by a putrid… unimaginable stench filling the air.",
+  3635:
+    "He’s done it. Dr. Heimfeld must have achieved\n" +
+    "what he came for. There was an explosion and\n" +
+    "what felt like an earthquake, followed by a\n" +
+    "putrid… unimaginable stench filling the air.",
   3636: "Page 52",
-  3637: "The smell just won't go away. It's like sulphur burning, a thick and vile aroma that fills your nostrils and mind until it is the only thing you can focus on. It's nauseating, maddening…",
+  3637:
+    "The smell just won't go away. It's like sulphur\n" +
+    "burning, a thick and vile aroma that fills your\n" +
+    "nostrils and mind until it is the only thing\n" +
+    "you can focus on. It's nauseating, maddening…",
   3638: "Page 53",
-  3639: "Yet the smell persists. Is this the end of times? Vegetation around the mouth of the caves is rotting, and it seems all the birds have left the forest. I'd wager they'd rather be anywhere but here… as would I.",
+  3639:
+    "Yet the smell persists. Is this the end of\n" +
+    "times? Vegetation around the mouth of the caves\n" +
+    "is rotting, and it seems all the birds have\n" +
+    "left the forest. I'd wager they'd rather be\n" +
+    "anywhere but here… as would I.",
   3640: "Page 54",
-  3641: "I had to go see for myself. I wish I hadn’t. Untold horrors, incomprehensible vileness, and an unmistakable aura of pure evil now resides in these depths. Perhaps everything went wrong for Dr. Heimfeld… Or is this what he wanted?\nI’ve made a terrible mistake… but it’s not my fault… how was I to know what was down there? And even if I had known, I would never have thought someone crazy enough to wake it purposefully.",
+  3641:
+    "I had to go see for myself. I wish I hadn’t.\n" +
+    "Untold horrors, incomprehensible vileness,\n" +
+    "and an unmistakable aura of pure evil now\n" +
+    "resides in these depths. Perhaps everything\n" +
+    "went wrong for Dr. Heimfeld… Or is this what\n" +
+    "he wanted?\n" +
+    "I’ve made a terrible mistake… but it’s not my\n" +
+    "fault… how was I to know what was down\n" +
+    "there? And even if I had known, I would never\n" +
+    "have thought someone crazy enough to wake it\n" +
+    "purposefully.",
   3642: "Page 55",
-  3643: "I’ve got to get out. I can’t last another minute in this place. At dawn I’ll pack my things and be on the first wagon headed westward. I just have a few things to take care of first…　\nI can’t leave… I try, but I cannot. No… that’s not right. I can leave. But I always wake up back here. It seems I am somehow bound to this place. Could it be the reason Heimfeld insisted I maintain ownership of the mines? Has he tricked me into trapping myself here with this indomitable evil?",
+  3643:
+    "I’ve got to get out. I can’t last another\n" +
+    "minute in this place. At dawn I’ll pack my\n" +
+    "things and be on the first wagon headed\n" +
+    "westward. I just have a few things to take\n" +
+    "care of first…　I can’t leave… I try, but I\n" +
+    "cannot. No… that’s not right. I can leave.\n" +
+    "But I always wake up back here. It seems I am\n" +
+    "somehow bound to this place. Could it be the\n" +
+    "reason Heimfeld insisted I maintain ownership\n" +
+    "of the mines? Has he tricked me into trapping\n" +
+    "myself here with this indomitable evil?",
   3644: "Page 56",
-  3645: "I must rid myself of what binds me to this place. I renounce my ownership! I've drafted a letter and sent it to my distant nephew, claiming he is to inherit these accursed lands from me. Perhaps then, I will finally be able to leave this nightmare.",
+  3645:
+    "I must rid myself of what binds me to this\n" +
+    "place. I renounce my ownership! I've drafted\n" +
+    "a letter and sent it to my distant nephew,\n" +
+    "claiming he is to inherit these accursed\n" +
+    "lands from me. Perhaps then, I will finally\n" +
+    "be able to leave this nightmare.",
   3646: "take 50 DMG per attack",
   3647: "Life-Steal",
   3648: "When attacking chance to deal fire DMG",
