@@ -2491,33 +2491,90 @@ var svrExcel = {
   1616: "Deity of Life",
   1617: "Dark Lord",
   1618: "You can check【Daily】/【Achievements】information, remember to come back to claim your rewards!\nDon’t forget【Rank】, and challenge other players!",
-  1619: "【Buy】：Drag item to your bag（or your character）\n【Sell】：Drag item to the Shop（or Witch）",
-  1620: "【Bulk Sell】button, allows you to sell multiple items.",
+  1619:
+    "【Buy】Drag item to your bag\n" +
+    "（or your character）\n" +
+    "【Sell】Drag item to the Shop\n" +
+    "（or Shop-owner）",
+  1620: "【Bulk Sell】button, allows you to sell\n" + " multiple items.",
   1621: "【Enhance】Increase equipment stats\nEach time you Enhance, pieces of Gold Equipment will be consumed.",
-  1622: "【Reform】Replace one stat\nEach piece of equipment can only replace one stat.",
-  1623: "【Storage】Use to store equipment and other items.",
-  1624: "【Tap】control the character's movement\nYou can also change this setting to【Direction Keys】.",
-  1625: "You got a new item! Tap to use.\nYou can also tap the Bag in the bottom right of the screen to access your inventory.",
-  1626: "You got new equipment!\nSelect and use it from your inventory!",
-  1627: "Tap and hold on the monster for a detailed description.\nUsing this information will help you greatly in battle!",
-  1628: "You’ve arrived at a checkpoint!\nYou can now choose to start from this checkpoint.",
-  1629: "Level Up! Get Character Stat Points!\nUpgrade Character Stats from the skills interface.",
+  1622:
+    "【Reform】Replace one stat\n" +
+    "Each piece of equipment can only\n" +
+    "replace one stat.",
+  1623:
+    "【Storage】Use to store equipment and\n" +
+    "other items while you expore the caves.",
+  1624:
+    "【Tap】control the character's movement via\n" +
+    "on screen buttons or use【Direction Keys】.",
+  1625:
+    "You've received a new item! Tap to use.\n" +
+    "You can also tap the Bag in the bottom\n" +
+    "right of the screen to access your\n" +
+    "inventory.",
+  1626: "You got new equipment!\n" + "Select and use it from your inventory!",
+  1627:
+    "Tap and hold on the monster for a\n" +
+    "detailed description.\n" +
+    "Using this information will help\n" +
+    "you greatly in battle!",
+  1628:
+    "You’ve arrived at a checkpoint!\n" +
+    "You can now choose to start from this\n" +
+    "point at any time in the future.",
+  1629:
+    "Level Up! Get Character Stat Points!\n" +
+    "Upgrade Character Stats from the\n" +
+    "skills interface.",
   1630: "【Skills】Learn and upgrade Skills and Stats\nYou can unlock new skills when upgrading your character stats! ",
   1631: "You have unlocked the next skill! Please choose one skill to learn!\nPay Attention: You can only choose one skill at each stage.",
   1632: "You have learned one【Combat Skills】, A Combat Skill icon will appear in battle.\nTap on the Skill icon to use.",
   1633: "You have learned one【Cave Skills】, A Cave Skill icon will appear in battle.\nTap on the Cave Skill icon to use.",
-  1634: "Your inventory is full!\nYou can use the【Discard】icon to remove useless items.\nor【Discard  All】to remove all lower quality items.",
-  1635: "You can also buy an inventory page for more slots.",
-  1636: "【Midas Touch】can convert a piece of equipment to Gold-Quality.\nOnly Gold-Quality items can be brought out of the cave when using an【Escape Scroll】",
-  1637: "【Enchant】increase a single stat for  your equipmentConsumes Enchantment Materials and MP.",
-  1638: "That's Great! You got an【Escape Scroll】!\nUse it to leave the cave.\nNote：Only Gold-Quality equipment can be taken out of the cave.",
-  1639: "DMG numbers\n white/red numbers are PDMG.\nPurple numbers are MDMG ",
-  1640: "Your health is low!\nFind an【Escape Scroll】and leave the cave\nor you will lose all your current progress if you die!",
-  1641: "Congratulations! You have unlocked Auto-Run.\nUsing Auto-Run can free up your hands! Grab a coffee and try it out!",
-  1642: "Congratulations! You have unlocked Runes!\nEquip and upgrade runes. It is said that those who have survived always brought the best runes with them.",
-  1643: "Congratulations! You have unlocked The Infinity Tower!\nIt is the best place to prove your might! Life is about improving and challenging oneself!",
-  1644: "Congratulations! You have unlocked Pets!\nTake your favorite pet with you! They will come in handy!",
-  1645: "Congratulations! You have unlocked The Greedy Challenge!\nChallenge the new dungeon and get daily Runes rewards!",
+  1634: "Your inventory is full!\nYou can use the【Discard】icon to remove\nitems and make space or the\n【Discard  All】icon to remove all lower quality items.",
+  1635: "You can also buy an inventory page for more\nslots.",
+  1636: "【Midas Touch】can convert a piece of\nequipment to Gold-Quality.\nOnly Gold-Quality items can be brought out\nof the cave when using an【Escape Scroll】",
+  1637:
+    "【Enchant】increase a single stat for your\n" +
+    "equipment. Consumes Enchantment Materials\n" +
+    "and MP.",
+  1638:
+    "That's Great! You got an【Escape Scroll】\n" +
+    "Use it to leave the cave.\n" +
+    "Note：Only Gold-Quality equipment can be\n" +
+    "taken out of the cave.",
+  1639:
+    "DMG numbers:\n" +
+    "white/red numbers are PDMG.\n" +
+    "Purple numbers are MDMG",
+  1640:
+    "Your health is low!\n" +
+    "Find an【Escape Scroll】\n" +
+    "and leave the cave or you will lose\n" +
+    "all your current progress if you die!",
+  1641:
+    "Congratulations! You have unlocked Auto-Run.\n" +
+    "Using Auto-Run can free up your hands\n" +
+    "Grab a coffee and try it out!",
+  1642:
+    "Congratulations! You have unlocked Runes!\n" +
+    "Equip and upgrade runes. It is said,\n" +
+    "“Those who have survived always brought\n" +
+    "the best runes with them”.",
+  1643:
+    "Congratulations! You have unlocked\n" +
+    "“The Infinity Tower”! It is the best\n" +
+    "place to prove your might! Life is about\n" +
+    "improving and challenging oneself!",
+  1644:
+    "Congratulations! You have unlocked Pets!\n" +
+    "Take your favorite pet with you!\n" +
+    "They will come in handy!",
+  1645:
+    "Congratulations! You have unlocked “The\n" +
+    "Greedy Challenge”!\n" +
+    "Challenge the new dungeon and get daily\n" +
+    "Runes reward!",
   1646: "Gold ",
   1647: "Received Gold",
   1648: "Crystals",
@@ -4418,47 +4475,163 @@ var svrExcel = {
   3533: "The Unravelling",
   3534: "The End",
   3535: "Page 1",
-  3536: "My name is Sir Reginald Ficklesworth Ⅳ. I am the current proprietor of these lands. This humble estate has been in my family for generations, as long as time can tell. I’ve no one to pass this onto, so it is my intention to leave a record of what my life is like, that our history may live on.",
+  3536:
+    "My name is Sir Reginald Ficklesworth Ⅳ.\n" +
+    "I am the current proprietor of these lands.\n" +
+    "This humble estate has been in my family\n" +
+    "for generations, as long as time can tell.\n" +
+    "I’ve no one to pass this onto, so it is my\n" +
+    "intention to leave a record of what my\n" +
+    "life is like, that our history may live on.",
   3537: "Page 2",
-  3538: "Someone showed up at my door unannounced today, pickaxe and rope in hand. He wanted my permission to explore a cave he’d found not far from here. I didn’t even know there was anything underground around here, but I sold him my permission all the same. Hard to refuse money when it knocks on your door.",
+  3538:
+    "Someone showed up at my door unannounced\n" +
+    "today, pickaxe and rope in hand. He wanted\n" +
+    "my permission to explore a cave he’d found\n" +
+    "not far from here. I didn’t even know there\n" +
+    "was anything underground around here, but I\n" +
+    "sold him my permission all the same. Hard\n" +
+    "to refuse money when it knocks on your door.",
   3539: "Page 3",
-  3540: "Another random adventurer in search of fame and fortune was here today, asking about a license to enter the mines. I think there might be a serious profit to be had here…",
+  3540:
+    "Another random adventurer in search of fame\n" +
+    "and fortune was here today, asking about a\n" +
+    "license to enter the mines. I think there\n" +
+    "might be a serious profit to be had here…",
   3541: "Page 4",
-  3542: "I was never poor, that’s certain, but I never imagined I wouldn’t have to work a day in my life again. I haven’t dipped into my bank to pay a bill in months, and this estate isn’t cheap on the upkeep.",
+  3542:
+    "I was never poor, that’s certain, but I\n" +
+    "never imagined I wouldn’t have to work a\n" +
+    "day in my life again. I haven’t dipped into\n" +
+    "my bank to pay a bill in months, and this\n" +
+    "estate isn’t cheap on the upkeep.",
   3543: "Page 5",
-  3544: "More and more people are starting to show up looking for access to the mines. I’m making money hand over fist with this thing… But what if I could make more?",
+  3544:
+    "More and more people are starting to show\n" +
+    "up looking for access to the mines. I’m\n" +
+    "making money hand over fist with this\n" +
+    "thing… But what if I could make more?",
   3545: "Page 6",
-  3546: "I was wondering the other day… Why suddenly all the interest in this random set of mines under my house, that no one even knew existed? Not a mention in a lifetime, and now in a matter of weeks, dozens of visitors have come through. What triggered this? I should find out one of these days.",
+  3546:
+    "I was wondering the other day…\n" +
+    "Why suddenly all the interest in this\n" +
+    "random set of mines under my house, that\n" +
+    "no one even knew existed? Not a mention\n" +
+    "in a lifetime, and now in a matter of\n" +
+    "weeks, dozens of visitors have come\n" +
+    "through. What triggered this?\n" +
+    "I should find out one of these days.",
   3547: "Page 7",
-  3548: "Yet more people show up by the day. I can’t even keep count anymore. Not that I’m complaining. Some folk are even setting up shop nearby. Looks like travelling caravans mostly, but still!",
+  3548:
+    "Yet more people show up by the day. I\n" +
+    "can’t even keep count anymore. Not\n" +
+    "that I’m complaining. Some folk are even\n" +
+    "setting up shop nearby. Looks like\n" +
+    "travelling caravans mostly, but still!",
   3549: "Page 8",
-  3550: "This place is starting to attract a really wide variety of people. A respectable young intellectual looking type wanted to explore the mines. He didn’t look the type, but I sold him a license all the same. He said his name was Heimfeld. Nice fella’.",
+  3550:
+    "This place is starting to attract a\n" +
+    "really wide variety of people.\n" +
+    "A respectable young intellectual looking\n" +
+    "type wanted to explore the mines. He\n" +
+    "didn’t look the type, but I sold him a\n" +
+    "license all the same. He said his name\n" +
+    "was Heimfeld. Nice fella’.",
   3551: "Page 9",
-  3552: "Winter is almost here. I wonder if the influx of travellers will continue throughout these arduous months. The lands seem to turn sombre and enigmatic this time of year…",
+  3552:
+    "Winter is almost here. I wonder if the\n" +
+    "influx of travellers will continue\n" +
+    "throughout these arduous months. The\n" +
+    "lands seem to turn sombre and enigmatic\n" +
+    "this time of year…",
   3553: "Page 10",
-  3554: "First snow hit today. It’s not much, but it never really amounts to anything. Most notably we get awful howling winds that pierce you right down to the core.",
+  3554:
+    "First snow hit today. It’s not much, but\n" +
+    "it never really amounts to anything. Most\n" +
+    "notably we get awful howling winds that\n" +
+    "pierce you right down to the core.",
   3555: "Page 11",
-  3556: "It turns out Heimfeld is a professor of some sort, from a university in some foreign country -- says he is writing a thesis on geological anomalies, and that the mines beneath the surface here go deeper than anywhere he’s ever seen before.",
+  3556:
+    "It turns out Heimfeld is a professor of\n" +
+    "some sort, from a university in some\n" +
+    "foreign country -- says he is writing a\n" +
+    "thesis on geological anomalies, and that\n" +
+    "the mines beneath the surface here go\n" +
+    "deeper than anywhere he’s ever seen\n" +
+    "before.",
   3557: "Page 12",
-  3558: "There are still people arriving every day. It’s becoming a lot to deal with. Maybe I should hire someone to take care of the clerical side of things, so I can focus on counting all the profit I’m making!",
+  3558:
+    "There are still people arriving every\n" +
+    "day. It’s becoming a lot to deal with.\n" +
+    "Maybe I should hire someone to take\n" +
+    "care of the clerical side of things,\n" +
+    "so I can focus on counting all the\n" +
+    "profit I’m making!",
   3559: "Page 13",
-  3560: "It’s still hard to believe this all just started happening out of the blue about a year ago. I can hardly remember a time before this place was abustlin’ with people.",
+  3560:
+    "It’s still hard to believe this all just started\n" +
+    "happening out of the blue about a year ago.\n" +
+    "I can hardly remember a time before this place\n" +
+    "was abustlin’ with people.",
   3561: "Page 14",
-  3562: "There's talk of extravagant treasures being found in the mines by some of the more skilled adventurers. Still… It can't compare to getting paid to do nothing, like me!",
+  3562:
+    "There's talk of extravagant treasures\n" +
+    "being found in the mines by some of the\n" +
+    "more skilled adventurers. Still… It\n" +
+    "can't compare to getting paid to do\n" +
+    "nothing, like me!",
   3563: "Page 15",
-  3564: "This place is making everyone filthy rich! Perhaps this might lead to a burst of new life for this old place. Not in over 100 years has this place prospered so.",
+  3564:
+    "This place is making everyone filthy\n" +
+    "rich! Perhaps this might lead to a\n" +
+    "burst of new life for this old place.\n" +
+    "Not in over 100 years has this place\n" +
+    "prospered so.",
   3565: "Page 16",
-  3566: "I’ve developed quite the rapport with young Dr. Heimfeld. There’s no limit to the curiosities of that man, and at less than half my age, I’m sure he’s got a long path before him in life. He’s going to go far, maybe even change the world one day, the way he talks.",
+  3566:
+    "I’ve developed quite the rapport with\n" +
+    "young Dr. Heimfeld. There’s no limit\n" +
+    "to the curiosities of that man, and at\n" +
+    "less than half my age, I’m sure he’s got\n" +
+    "a long path before him in life. He’s\n" +
+    "going to go far, maybe even change the\n" +
+    "world one day, the way he talks.",
   3567: "Page 17",
-  3568: "Dr. Heimfeld paid me a visit today. He had all kinds of questions about the estate, and how long it had been with my family. Seems he plans to stay a while.",
+  3568:
+    "Dr. Heimfeld paid me a visit today. He had\n" +
+    "all kinds of questions about the estate,\n" +
+    "and how long it had been with my family.\n" +
+    "Seems he plans to stay a while.",
   3569: "Page 18",
-  3570: "His questions got me to thinking, how long HAD this estate been with my family. The manor itself is a relic of the Victorian era, but my own lineage can be traced to a completely different area. So when did we come here?",
+  3570:
+    "His questions got me to thinking, how long\n" +
+    "HAD this estate been with my family. The\n" +
+    "manor itself is a relic of the Victorian\n" +
+    "era, but my own lineage can be traced to a\n" +
+    "completely different area. So when did we\n" +
+    "come here?",
   3571: "Page 19",
-  3572: "I wonder why Heimfeld wanted to know those things. I don't see how it could possibly relate to anything relevant about his research…",
+  3572:
+    "I wonder why Heimfeld wanted to know those\n" +
+    "things. I don't see how it could possibly\n" +
+    "relate to anything relevant about his research…",
   3573: "Page 20",
-  3574: "After extensive research in the manor's library, I've found no signs that our family ever resided here until before my great grandfather. So why did we move here?",
+  3574:
+    "After extensive research in the manor's\n" +
+    "library, I've found no signs that our family\n" +
+    "ever resided here until before my great\n" +
+    "grandfather. So why did we move here?",
   3575: "Page 21",
-  3576: "Dr. Heimfeld asked, in passing, if he could bring some hardware down to the mines. “For studyin’ the earth”, he said. For some reason, it came to me to demand a much higher price on his weekly fees in return. I didn’t need it, but some kind of primal greed took over me. Luckily, he agreed without hesitation. He must be really dedicated to his work.",
+  3576:
+    "Dr. Heimfeld asked, in passing, if he could\n" +
+    "bring some hardware down to the mines. “For\n" +
+    "studyin’ the earth”, he said. For some\n" +
+    "reason, it came to me to demand a much higher\n" +
+    "price on his weekly fees in return. I didn’t\n" +
+    "need it, but some kind of primal greed took\n" +
+    "over me. Luckily, he agreed without\n" +
+    "hesitation. He must be really dedicated to\n" +
+    "his work.",
   3577: "I think I might take the time to read the book Heimfeld is writing. He's been working here so long, it must be really interesting.",
   3578: "Page 23",
   3579: "Last time I saw him, Heimfeld gave me a gift. A sort of statuette - He said it brings forth new things into this world, and symbolizes rebirth of the old. I guess he meant it as a suggestion that I should do something worthwhile in my old age, now that I have so much money.",
@@ -4578,7 +4751,7 @@ var svrExcel = {
   3693: "Claim Greedy Challenge Rewards once",
   3694: "Defeat any 10 monsters",
   3695: "Use Auto-Run once",
-  3696: "Use Escape Scroll once",
+  3696: "Use 【Escape Scroll】 once",
   3697: "Spikes（Normal+Dream）Floors 1-10",
   3698: "Spikes（Normal+Dream）Floors 11-20",
   3699: "Spikes（Expedition Ⅱ）Floors 1-10",
@@ -11373,7 +11546,7 @@ var clientTs = {
   265: "TIP: Remember to use the storage box in town.",
   266: "TIP: Midas Touch statue can change items into Gold quality",
   267: "TIP: Only 1 skill can be learned on each skill row",
-  268: "TIP: Remember to use Escape Scroll, or risk LOSING everything!",
+  268: "TIP: Remember to use 【Escape Scroll】, or risk LOSING everything!",
   269: "TIP: Use the lock in your bag to keep your greatest treasures",
   270: "TIP: Click on the mini-map to enlarge it.",
   271: "TIP: A new stage will be unlocked… only if you get through the first one.",
@@ -11579,16 +11752,18 @@ var clientTs = {
   471: "The rumor has it \nthat the curse \ncannot be ridden.",
   472: "If you die in the \ncave, you might \nLOSE everything",
   473: "You can use ‘W’,’A’\n,’S’,’D’ controls.",
-  474: "Remember to use \nEscape Scroll, or \nrisk LOSING \neverything!",
-  475: "The monsters are \nin a rage!",
-  476: "Please do not \ndie in the cave.",
-  477: "If you can’t defeat\n the monsters, flee!",
-  478: "There's a chest for\n you!Next to \nthe witch!",
-  479: "What a night!\nDrinks! Food!\nAnd slime from  the cave!",
+  474:
+    "Remember to use an\n" +
+    "【Escape Scroll】, or \nrisk LOSING \neverything!",
+  475: "The monsters are in a\n" + "rage!",
+  476: "Please do not die in the\n" + "cave.",
+  477: "If you can’t defeat the\n" + "monsters, flee!",
+  478: "There's a chest for you!\n" + "Next to the witch!",
+  479: "What a night! Drinks!\n" + "Food!… and slime from the\n" + "cave!",
   480: "Required Level: ",
   481: "MP +15",
   482: "Are you sure you want to leave?\n",
-  483: "Leave without using an Escape Scroll?\n(Progress can only be kept when leaving with an Escape Scroll)",
+  483: "Leave without using an 【Escape Scroll】?\n(Progress can only be kept when leaving with an 【Escape Scroll】)",
   484: "Leave the Greedy Cave?\n(All progress from current run will be lost.)",
   485: "Progress from current run will be lost. Are you sure?",
   486: "Received Completion Rewards",
@@ -11670,7 +11845,7 @@ var clientTs = {
   562: "Nothing is standing\nin our way!Let's \nproceed with caution.",
   563: "Come on!A new \nadventure is right\nbefore your eyes!",
   564: "Use the Escape \nScroll to go back \nto town.The\nBlacksmith is waiting!",
-  565: "Use Escape Scroll \nto go back to town.",
+  565: "Use 【Escape Scroll】 \nto go back to town.",
   566: "Click this man and\nbecome stronger",
   567: "My magic has yet to\nreturn, the rest is\nup to you!",
   568: "You can explore on\nyour own! Be careful!\nTreasures and secrets\nawait you in the\ncave!",
