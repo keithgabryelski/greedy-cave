@@ -5385,17 +5385,32 @@ var svrExcel = {
   4173: "A golden key is needed to open the door.",
   4174: "Received a golden key!",
   4175: "Gold altar activated",
-  4176: "Wood altar failed to activate, \nthe altar has been extinguished. \n(Clockwise to activate gold, wood, fire and earth altars) ",
+  4176:
+    "Wood altar failed to activate.\n" +
+    "All altars have been extinguished.\n" +
+    "(activate clockwise: gold, wood, fire then earth) ",
   4177: "Wood altar activated",
-  4178: "Water altar failed to activate, \nthe altar has been extinguished. \n(Clockwise to activate gold, wood, fire and earth altar)",
+  4178:
+    "Water altar failed to activate.\n" +
+    "All altars have been extinguished.\n" +
+    "(activate clockwise: gold, wood, fire then earth) ",
   4179: "Water altar activated",
-  4180: "Fire altar failed to activate, \nthe altar has been extinguished. \n(Clockwise to activate gold, wood, fire and earth altars) ",
+  4180:
+    "Fire altar failed to activate.\n" +
+    "All altars have been extinguished.\n" +
+    "(activate clockwise: gold, wood, fire then earth) ",
   4181: "Fire altar activated",
-  4182: "Earth altar failed to activate, \nthe altar has been extinguished. \n(Clockwise to activate gold, wood, fire and earth altars) ",
-  4183: "Earth altar activated and a chest appears",
+  4182:
+    "Earth altar failed to activate.\n" +
+    "All altars have been extinguished.\n" +
+    "(activate clockwise: gold, wood, fire then earth) ",
+  4183: "Earth altar activated. A chest appears",
   4184: "Received a wooden key!",
   4185: "Homunculus has come!",
-  4186: "Congratulations! You have defeated BOSS-Homunculus, \nlots of treasures appeared on the floor.",
+  4186:
+    "Congratulations! You have defeated The\n" +
+    "BOSS-Homunculus, lots of treasures appeared\n" +
+    "on the floor.",
   4187: "Please push the box to the specified location",
   4188: "Door opens",
   4189: "Wood desk",
