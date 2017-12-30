@@ -11980,28 +11980,38 @@ var clientTs = {
   461: "Auto-run not available on BOSS Floor.",
   462: "Consume 50 Crystals.",
   463: "Only loot Gold Equipment? Consume 50 Crystals.",
-  464: "Hi!\nNice to meet you!",
-  465: "Complete daily tasks\nto get crystals",
-  466: "Adventurer, this is \nnot a place for \nyoung ones like \nyourself.",
-  467: "This cave hides \nmany mysteries.",
-  468: "Attack opponent's \nweakness and take \nthem down",
-  469: "Stella! \nHey, Stella!",
-  470: "ONLY gold items can \nbe taken out of the\n cave.",
-  471: "The rumor has it \nthat the curse \ncannot be ridden.",
-  472: "If you die in the \ncave, you might \nLOSE everything",
-  473: "You can use ‘W’,’A’\n,’S’,’D’ controls.",
+  464: "Hi! Nice to meet you!",
+  465: "Complete daily tasks\n" + "to get crystals",
+  466:
+    "Adventurer, this is\n" +
+    "not a place for\n" +
+    "young ones like\n" +
+    "yourself.",
+  467: "This cave hides many\n" + "mysteries.",
+  468: "Attack opponent's\n" + "weakness and take\n" + "them down",
+  469: "Stella! Hey, Stella!",
+  470: "ONLY gold-quality\n" + "items can be taken\n" + "out of the cave.",
+  471:
+    "Rumors has it that the\n" + "curse of the caves\n" + "cannot be quenced.",
+  472: "If you die in the\n" + "cave, you might\n" + "LOSE everything",
+  473:
+    "You can use the arrow\n" +
+    "keys（▲, ◀, ▼, ▶）or\n" +
+    "letters（Ⓦ, Ⓐ, Ⓢ, Ⓓ）\n" +
+    "to move about the cave.",
   474:
     "Remember to use an\n" +
-    "【Escape Scroll】, or \nrisk LOSING \neverything!",
-  475: "The monsters are in a\n" + "rage!",
-  476: "Please do not die in the\n" + "cave.",
+    "【Escape Scroll】or\n" +
+    "risk LOSING everything!",
+  475: "The monsters are in a rage!",
+  476: "Please do not die in the cave.",
   477: "If you can’t defeat the\n" + "monsters, flee!",
   478: "There's a chest for you!\n" + "Next to the witch!",
-  479: "What a night! Drinks!\n" + "Food!… and slime from the\n" + "cave!",
+  479: "What a night! Food!\n" + "Drinks!… and slime from the\n" + "cave!",
   480: "Required Level: ",
   481: "MP +15",
   482: "Are you sure you want to leave?\n",
-  483: "Leave without using an 【Escape Scroll】?\n(Progress can only be kept when leaving with an 【Escape Scroll】)",
+  483: "Leave without using an【Escape Scroll】?\n(Progress can only be kept when leaving with an 【Escape Scroll】)",
   484: "Leave the Greedy Cave?\n(All progress from current run will be lost.)",
   485: "Progress from current run will be lost. Are you sure?",
   486: "Received Completion Rewards",
