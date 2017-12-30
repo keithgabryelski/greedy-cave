@@ -4290,73 +4290,112 @@ var svrExcel = {
   3348: "周铁山",
   3349: "Shop",
   3350: "ATK",
-  3351: "Deals PDMG, Each upgrade increases ATK by 1%",
+  3351: "Deals PDMG, Each upgrade\n" + "increases ATK by 1%",
   3352: "DEF ",
-  3353: "Ability to block, Each upgrade increases DEF by 1% ",
+  3353: "Ability to block, Each upgrade\n" + "increases DEF by 1% ",
   3354: "MATK ",
-  3355: "Deal MDMG, Each upgrade increases MATK by 1% ",
+  3355: "Deal MDMG, Each upgrade\n" + "increases MATK by 1% ",
   3356: "Crit Rate ",
-  3357: "Critical Hit Rate, Each upgrade increases Crit Rate by 0.5% ",
+  3357:
+    "Critical Hit Rate, Each\n" + "upgrade increases Crit Rate by\n" + "0.5%",
   3358: "Dodge Rate ",
-  3359: "Dodge Rate, Each upgrade increases Dodge Rate by 0.5% ",
+  3359: "Dodge Rate, Each upgrade\n" + "increases Dodge Rate by 0.5% ",
   3360: "MP",
-  3361: "Each upgrade increases Max. MP by 1% ",
+  3361: "Each upgrade increases\n" + "Max. MP by 1% ",
   3362: "HP",
-  3363: "Each upgrade increases Max. HP by 1%",
+  3363: "Each upgrade increases\n" + "Max. HP by 1%",
   3364: "Bonus Gold ",
-  3365: "Each upgrade increases Bonus Gold gained",
+  3365: "Each upgrade increases Bonus\n" + "Gold gained",
   3366: "Bonus EXP ",
-  3367: "Each upgrade increases Bonus EXP gained",
+  3367: "Each upgrade increases Bonus\n" + "EXP gained",
   3368: "Charm",
-  3369: "Each upgrade increases chance to find rare items",
+  3369: "Each upgrade increases chance\n" + "to find rare items",
   3370: "Siphon Cut",
-  3371: "Deal（ATK*100%）PDMG, and Regen（50+ 40%DMG）HP ",
+  3371: "Deal（ATK*100%）PDMG, and\n" + "Regen（50+ 40%DMG）HP",
   3372: "Heal",
   3373: "Regen（60+MATK *350%）HP.",
   3374: "Thorn Armor",
-  3375: "Each time you are dealt PDMG , reflect 10% of the DMG to the attacker.",
+  3375:
+    "Each time you are dealt PDMG,\n" +
+    "reflect 10% of the DMG to the\n" +
+    "attacker.",
   3376: "Element Control",
-  3377: "Increase all element ATK by 30%.",
+  3377: "Increase all element ATK by\n" + "30%.",
   3378: "Counterattack",
-  3379: "Attempts to block DMG, if block is successful, attacker takes 150% DMG.",
+  3379:
+    "Attempts to block DMG, if\n" +
+    "block is successful, attacker\n" +
+    "takes 150% DMG.",
   3380: "Combo",
-  3381: "Quick attack 3 times, each attack deals（PATK*50%）PDMG.",
+  3381: "Quick attack 3 times, each\n" + "attack deals（PATK*50%）PDMG.",
   3382: "Adrenaline",
-  3383: "Chance to deal Crit DMG, if successful increase ATK by 20%, can be stacked 3 times.",
+  3383:
+    "Chance to deal Crit DMG, if\n" +
+    "successful increase ATK by 20%\n" +
+    "（stacks 3 times）",
   3384: "Weakness",
-  3385: "Attacking targets weakness will increase DMG by 50%.",
+  3385: "Attacking targets weakness\n" + "will increase DMG by 50%.",
   3386: "Suicide Strike",
-  3387: "Deal（ATK*375%）PDMG to target, and take 10% DMG yourself.",
+  3387: "Deal（ATK*375%）PDMG to target,\n" + "and take 10% DMG yourself.",
   3388: "Mana Burn",
-  3389: "Deal（50+MATK *125%）MDMG, and Regen 10 MP Points.",
+  3389: "Deal（50+MATK *125%）MDMG, and\n" + "Regen 10 MP Points.",
   3390: "Blood Strike",
-  3391: "Normal attack will tear into the target, causing (5% of DMG/sec) Bleed Effect, can be stacked 3 times.",
+  3391:
+    "Normal attack will tear into\n" +
+    "the target, causing\n" +
+    "Bleed Effect（5% of DMG/sec）\n" +
+    "（stacks 3 times）",
   3392: "Blink",
-  3393: "Each time you successfully dodge an enemy's attack, decrease targets DMG by 20%, can be stacked 3 times.",
+  3393:
+    "Each time you successfully\n" +
+    "dodge an enemy's attack,\n" +
+    "decrease targets DMG by 20%,\n" +
+    "（stacks 3 times）",
   3394: "Berserker",
-  3395: "Deal（ATK*100%）PDMG and bonus DMG, the lower your HP the higher the DMG dealt.",
+  3395:
+    "Deal（ATK*100%）PDMG and bonus\n" +
+    "DMG, the lower your HP the\n" +
+    "higher the DMG dealt.",
   3396: "Burst",
-  3397: "Deal（MATK *250%）MDMG and bonus DMG, the higher your MP the higher the DMG dealt.",
+  3397:
+    "Deal（MATK *250%）MDMG and bonus\n" +
+    "DMG, the higher your MP the\n" +
+    "higher the DMG dealt.",
   3398: "Clean Break",
-  3399: "Each normal ATK has a 6% chance to deal 50% of your current HP as bonus DMG（No effect on Elite）",
+  3399:
+    "Each normal ATK has a 6%\n" +
+    "chance to deal 50% of your\n" +
+    "current HP as bonus DMG\n" +
+    "（no effect on elite）",
   3400: "Fatal",
-  3401: "Each normal ATK has a 3% chance to defeat enemy immediately（No effect on Elite）",
+  3401:
+    "Each normal ATK has a 3%\n" +
+    "chance to defeat enemy\n" +
+    "immediately\n" +
+    "（no effect on elite）",
   3402: "Pound for Pound",
-  3403: "Increase 20% Crit Rate, Deal（ATK*100%）PDMG, Crit will increase DMG by 300% ",
+  3403:
+    "Increase 20% Crit Rate,\n" +
+    "Deal（ATK*100%）PDMG,\n" +
+    "Crit increases DMG by 300%",
   3404: "Force Field",
-  3405: "Surrounds you with a force field that absorbs 300+ MATK*400% DMG, and increase MATK by 50%.",
+  3405:
+    "Surrounds you with a force\n" +
+    "field that absorbs 300+\n" +
+    "MATK*400% DMG, and increase\n" +
+    "MATK by 50%.",
   3406: "Telekinesis",
   3407: "Open any chest within range.",
   3408: "Treast X-Mark",
-  3409: "Places a mark on the map showing you a random chest.",
+  3409: "Places a mark on the map\n" + "showing you a random chest.",
   3410: "Trap Resistance",
-  3411: "All trap DMG is reduced by 50%.",
+  3411: "All trap DMG is reduced by\n" + "50%.",
   3412: "Remove Trap",
   3413: "Remove all traps within range.",
   3414: "Teleportation",
-  3415: "Teleport to anywhere within range.",
+  3415: "Teleport to anywhere within\n" + "range.",
   3416: "Random Teleport",
-  3417: "Teleport to a random area on current floor.",
+  3417: "Teleport to a random area on\n" + "current floor.",
   3418: "Counterforce",
   3419: "Chance to add Fire DMG",
   3420: "Chance to add Water DMG",
@@ -4392,16 +4431,21 @@ var svrExcel = {
   3450: "ATK +600",
   3451: "DEF +1000",
   3452: "Armor",
-  3453: "Target's DEF decreased 5%, lasts for 3 secs",
+  3453: "Target's DEF decreased 5%\n" + "（lasts for 3 secs）",
   3454: "Bite",
   3455: "Deal（ATK *120%）PDMG",
   3456: "ATK ",
   3457: "ATK +100",
   3458: "HP +100",
   3459: "Ignore DEF ",
-  3460: "Ignore target's DEF, lasts for 6 secs",
+  3460: "Ignore target's DEF\n" + "（lasts for 6 secs）",
   3461: "Execute",
-  3462: "Attempts to behead target, success rate is 125% - percentage of target's HP, less than 50% can be used（No effect on Elite）",
+  3462:
+    "Attempts to behead target,\n" +
+    "success rate is 125% -\n" +
+    "percentage of target's HP,\n" +
+    "less than 50% can be used\n" +
+    "（no effect on elite）",
   3463: "Pierce ",
   3464: "Pierce +10%",
   3465: "ATK +5%",
@@ -4569,10 +4613,11 @@ var svrExcel = {
     "profit I’m making!",
   3559: "Page 13",
   3560:
-    "It’s still hard to believe this all just started\n" +
-    "happening out of the blue about a year ago.\n" +
-    "I can hardly remember a time before this place\n" +
-    "was abustlin’ with people.",
+    "It’s still hard to believe this all just\n" +
+    "started happening out of the blue about a\n" +
+    "year ago. I can hardly remember a time\n" +
+    "before this place was abustlin’ with\n" +
+    "people.",
   3561: "Page 14",
   3562:
     "There's talk of extravagant treasures\n" +
@@ -4614,24 +4659,25 @@ var svrExcel = {
   3572:
     "I wonder why Heimfeld wanted to know those\n" +
     "things. I don't see how it could possibly\n" +
-    "relate to anything relevant about his research…",
+    "relate to anything relevant about his\n" +
+    "research…",
   3573: "Page 20",
   3574:
     "After extensive research in the manor's\n" +
-    "library, I've found no signs that our family\n" +
-    "ever resided here until before my great\n" +
-    "grandfather. So why did we move here?",
+    "library, I've found no signs that our\n" +
+    "family ever resided here until before my\n" +
+    "great grandfather. So why did we move here?",
   3575: "Page 21",
   3576:
     "Dr. Heimfeld asked, in passing, if he could\n" +
     "bring some hardware down to the mines. “For\n" +
     "studyin’ the earth”, he said. For some\n" +
-    "reason, it came to me to demand a much higher\n" +
-    "price on his weekly fees in return. I didn’t\n" +
-    "need it, but some kind of primal greed took\n" +
-    "over me. Luckily, he agreed without\n" +
-    "hesitation. He must be really dedicated to\n" +
-    "his work.",
+    "reason, it came to me to demand a much\n" +
+    "higher price on his weekly fees in return.\n" +
+    "I didn’t need it, but some kind of primal\n" +
+    "greed took over me. Luckily, he agreed\n" +
+    "without hesitation. He must be really\n" +
+    "dedicated to his work.",
   3577:
     "I think I might take the time to read\n" +
     "the book Heimfeld is writing. He's been\n" +
@@ -4711,18 +4757,20 @@ var svrExcel = {
   3600: "Page 34",
   3601:
     "I don't understand what is going on, but it\n" +
-    "seems I'm on my own dealing with this madness.",
+    "seems I'm on my own dealing with this\n" +
+    "madness.",
   3602: "Page 35",
   3603:
-    "The sheriff came around the other day asking\n" +
-    "for a missing person last seen in the company\n" +
-    "of Dr. Heimfeld.",
+    "The sheriff came around the other day\n" +
+    "asking for a missing person last seen in\n" +
+    "the company of Dr. Heimfeld.",
   3604: "Page 36",
   3605:
     "So many people come through here wanting to\n" +
     "explore the mines, how can I be expected to\n" +
-    "remember them all. I told him he was welcome\n" +
-    "to go check himself. He didn’t seem too keen.",
+    "remember them all. I told him he was\n" +
+    "welcome to go check himself. He didn’t seem\n" +
+    "too keen.",
   3606: "Page 37",
   3607:
     "A corpse turned up in the forest near the\n" +
@@ -4731,25 +4779,25 @@ var svrExcel = {
   3608: "Page 38",
   3609:
     "Lawmen are all over the place, swarming the\n" +
-    "grounds like ants. I guess the missing person\n" +
-    "was important somehow? More likely, just\n" +
-    "another poor soul.",
+    "grounds like ants. I guess the missing\n" +
+    "person was important somehow? More likely,\n" +
+    "just another poor soul.",
   3610: "Page 39",
   3611:
-    "They've mounted a full investigation. I told\n" +
-    "them about the mines, but I didn't tell them\n" +
-    "anything about Dr. Heimfeld…",
+    "They've mounted a full investigation. I\n" +
+    "told them about the mines, but I didn't\n" +
+    "tell them anything about Dr. Heimfeld…",
   3612: "Page 40",
   3613:
     "Perhaps I should have, but he's always paid\n" +
-    "his outrageous fees on time or in advance. I\n" +
-    "owe it to him to keep his research quiet…",
+    "his outrageous fees on time or in advance.\n" +
+    "I owe it to him to keep his research quiet…",
   3614: "Page 41",
   3615:
-    "They said the body had been dead for at least\n" +
-    "three weeks, but I thought I saw that man\n" +
-    "just a few days before the Sheriff questioned\n" +
-    "me about it…",
+    "They said the body had been dead for at\n" +
+    "least three weeks, but I thought I saw that\n" +
+    "man just a few days before the Sheriff\n" +
+    "questioned me about it…",
   3616: "Page 42",
   3617: "I'm trying not to think about it. I can't\n" + "comprehend… ",
   3618: "Page 43",
@@ -4758,19 +4806,21 @@ var svrExcel = {
   3620: "Page 44",
   3621:
     "I can't sleep. What could have done that to\n" +
-    "a corpse in a matter of days? It looked like\n" +
-    "it had the life drained right out of it.",
+    "a corpse in a matter of days? It looked\n" +
+    "like it had the life drained right out of\n" +
+    "it.",
   3622: "Page 45",
-  3623: "There’s definitely something strange going on\n" + "here… something… ",
+  3623: "There’s definitely something strange going\n" + "on here… something… ",
   3624: "Page 46",
   3625:
-    "I been trying not to think about it, but it’s\n" +
-    "deeply unsettling. What’s going on down there?",
+    "I been trying not to think about it, but\n" +
+    "it’s deeply unsettling. What’s going on\n" +
+    "down there?",
   3626: "Page 47",
   3627:
-    "Haven't seen a single lawman in days. Did they\n" +
-    "give up? Perhaps they were paid off? They\n" +
-    "left without a word, suddenly gone.",
+    "Haven't seen a single lawman in days. Did\n" +
+    "they give up? Perhaps they were paid off?\n" +
+    "They left without a word, suddenly gone.",
   3628: "Page 48",
   3629:
     "More corpses are turning up. No one is\n" +
@@ -4779,46 +4829,49 @@ var svrExcel = {
     "going on around here?",
   3630: "Page 49",
   3631:
-    "From my estate, perched at my window I can see\n" +
-    "the comings and goings of the mine. They haul\n" +
-    "out a dozen bags every day, but no bags ever\n" +
-    "seem to be going in…",
+    "From my estate, perched at my window I can\n" +
+    "see the comings and goings of the mine.\n" +
+    "They haul out a dozen bags every day, but\n" +
+    "no bags ever seem to be going in…",
   3632: "Page 50",
   3633:
-    "The bags… They must be hiding something, but\n" +
-    "what? Are they hauling out the earth itself or\n" +
-    "is it something else?",
+    "The bags… They must be hiding something,\n" +
+    "but what? Are they hauling out the earth\n" +
+    "itself or is it something else?",
   3634: "Page 51",
   3635:
-    "He’s done it. Dr. Heimfeld must have achieved\n" +
-    "what he came for. There was an explosion and\n" +
-    "what felt like an earthquake, followed by a\n" +
-    "putrid… unimaginable stench filling the air.",
+    "He’s done it. Dr. Heimfeld must have\n" +
+    "achieved what he came for. There was an\n" +
+    "explosion and what felt like an earthquake,\n" +
+    "followed by a putrid… unimaginable stench\n" +
+    "filling the air.",
   3636: "Page 52",
   3637:
-    "The smell just won't go away. It's like sulphur\n" +
-    "burning, a thick and vile aroma that fills your\n" +
-    "nostrils and mind until it is the only thing\n" +
-    "you can focus on. It's nauseating, maddening…",
+    "The smell just won't go away. It's like\n" +
+    "sulphur burning, a thick and vile aroma\n" +
+    "that fills your nostrils and mind until it\n" +
+    "is the only thing you can focus on.\n" +
+    "It's nauseating, maddening…",
   3638: "Page 53",
   3639:
     "Yet the smell persists. Is this the end of\n" +
-    "times? Vegetation around the mouth of the caves\n" +
-    "is rotting, and it seems all the birds have\n" +
-    "left the forest. I'd wager they'd rather be\n" +
-    "anywhere but here… as would I.",
+    "times? Vegetation around the mouth of the\n" +
+    "caves is rotting, and it seems all the\n" +
+    "birds have left the forest.\n" +
+    "I'd wager they'd rather be anywhere but\n" +
+    "here… as would I.",
   3640: "Page 54",
   3641:
     "I had to go see for myself. I wish I hadn’t.\n" +
     "Untold horrors, incomprehensible vileness,\n" +
     "and an unmistakable aura of pure evil now\n" +
     "resides in these depths. Perhaps everything\n" +
-    "went wrong for Dr. Heimfeld… Or is this what\n" +
-    "he wanted?\n" +
-    "I’ve made a terrible mistake… but it’s not my\n" +
-    "fault… how was I to know what was down\n" +
-    "there? And even if I had known, I would never\n" +
-    "have thought someone crazy enough to wake it\n" +
+    "went wrong for Dr. Heimfeld…\n" +
+    "Or is this what he wanted? I’ve made a\n" +
+    "terrible mistake… but it’s not my fault…\n" +
+    "how was I to know what was down there? And\n" +
+    "even if I had known, I would never have\n" +
+    "thought someone crazy enough to wake it\n" +
     "purposefully.",
   3642: "Page 55",
   3643:
@@ -4828,19 +4881,21 @@ var svrExcel = {
     "westward. I just have a few things to take\n" +
     "care of first…　I can’t leave… I try, but I\n" +
     "cannot. No… that’s not right. I can leave.\n" +
-    "But I always wake up back here. It seems I am\n" +
-    "somehow bound to this place. Could it be the\n" +
-    "reason Heimfeld insisted I maintain ownership\n" +
-    "of the mines? Has he tricked me into trapping\n" +
-    "myself here with this indomitable evil?",
+    "But I always wake up back here. It seems I\n" +
+    "am somehow bound to this place. Could it be\n" +
+    "the reason Heimfeld insisted I maintain\n" +
+    "ownership of the mines? Has he tricked me\n" +
+    "into trapping myself here with this\n" +
+    "indomitable evil?",
   3644: "Page 56",
   3645:
     "I must rid myself of what binds me to this\n" +
-    "place. I renounce my ownership! I've drafted\n" +
-    "a letter and sent it to my distant nephew,\n" +
-    "claiming he is to inherit these accursed\n" +
-    "lands from me. Perhaps then, I will finally\n" +
-    "be able to leave this nightmare.",
+    "place. I renounce my ownership! I've\n" +
+    "drafted a letter and sent it to my distant\n" +
+    "nephew, claiming he is to inherit these\n" +
+    "accursed lands from me. Perhaps then, I\n" +
+    "will finally be able to leave this\n" +
+    "nightmare.",
   3646: "take 50 DMG per attack",
   3647: "Life-Steal",
   3648: "When attacking chance to deal fire DMG",
@@ -8927,14 +8982,24 @@ var svrExcel = {
   7449: "Winter",
   7450: "Winter is coming, frozen target",
   7451:
-    "1：Group assignment refreshes and weekly ranking rewards are distributed every Monday at 00:00\n" +
-    "2：Each group players' challenge chances, points, and ranking refresh everyday at 00:00, and daily ranking rewards are distributed.\n" +
-    "3：Players ranking at the beginning is determined by each player's CP at default until players receiving points. Ranking of players with same points will go by CP.\n" +
-    "4：Points received each day will accumulate for the week until the weekly points are reset Monday at 00:00.\n" +
-    "5：Receive 3 points for each victory, 1 point for a draw and no points when defeated.\n" +
-    "6：During battles, character and pet skills will be used according to the pre-set sequence.\n" +
-    "7：Damage caused in the Arena is equal to 10% of normal damage. 1/10.\n" +
-    "",
+    "1: Group assignment refreshes and weekly ranking\n" +
+    "   rewards are distributed every Monday at 00:00\n" +
+    "2: Each group players' challenge chances, points,\n" +
+    "   and ranking refresh everyday at 00:00, and\n" +
+    "   daily ranking rewards are distributed.\n" +
+    "3: Players ranking at the beginning is determined\n" +
+    "   by each player's CP at default until players\n" +
+    "   receiving points. Ranking of players with same\n" +
+    "   points will go by CP.\n" +
+    "4: Points received each day will accumulate for\n" +
+    "   the week until the weekly points are reset\n" +
+    "   Monday at 00:00.\n" +
+    "5: Receive 3 points for each victory, 1 point for\n" +
+    "   a draw and no points when defeated.\n" +
+    "6: During battles, character and pet skills will\n" +
+    "   be used according to the pre-set sequence.\n" +
+    "7: Damage caused in the Arena is equal to 10% of\n" +
+    "   normal damage. 1/10.",
   7452: "Shop",
   7453: "Decrease the speed of enemies within 2 blocks by 50%, lasts for 3 secs.",
   7454: "Freeze the enemies within 2 blocks for 3 secs.",
@@ -8944,14 +9009,24 @@ var svrExcel = {
   7458: "Target can't move for 3 secs",
   7459: "Regen 10% Max. HP.",
   7460:
-    "1：Group assignment refreshes and weekly ranking rewards are distributed every Monday at 00:00\n" +
-    "2：Each group players' challenge chances, points, and ranking refreshes everyday at 00:00, and daily ranking rewards are distributed.\n" +
-    "3：Players ranking at the beginning goes by each player's CP at default until players receiving points. Ranking of players with same points will go by CP.\n" +
-    "4：Points received each day will accumulate for the week until the weekly points are reset Monday at 00:00.\n" +
-    "5：Received 3 points for each victory, 1 point for a draw and no points when defeated.\n" +
-    "6：During battles, character and pet skills will be used according to the pre-set sequence.\n" +
-    "7：Damaged caused in the Arena is equal to 10% of normal damage. 1/10.\n" +
-    "",
+    "1: Group assignment refreshes and weekly ranking\n" +
+    "   rewards are distributed every Monday at 00:00\n" +
+    "2: Each group players' challenge chances, points,\n" +
+    "   and ranking refresh everyday at 00:00, and\n" +
+    "   daily ranking rewards are distributed.\n" +
+    "3: Players ranking at the beginning is determined\n" +
+    "   by each player's CP at default until players\n" +
+    "   receiving points. Ranking of players with same\n" +
+    "   points will go by CP.\n" +
+    "4: Points received each day will accumulate for\n" +
+    "   the week until the weekly points are reset\n" +
+    "   Monday at 00:00.\n" +
+    "5: Receive 3 points for each victory, 1 point for\n" +
+    "   a draw and no points when defeated.\n" +
+    "6: During battles, character and pet skills will\n" +
+    "   be used according to the pre-set sequence.\n" +
+    "7: Damage caused in the Arena is equal to 10% of\n" +
+    "   normal damage. 1/10.",
   7461: "Final Participation Award",
   7462: "Tryout Participation Award",
   7463: "The 1st wave giftpack",
@@ -9097,12 +9172,20 @@ var svrExcel = {
   7603: "Equipment Purchase",
   7604: "Outraged Demon",
   7605:
-    "1. Group assignment, points, and ranking reset every Monday at 00:00\n" +
-    "2. Challenge chance, points, and ranking reset everyday at 00:00, and ranking rewards are distributed at that time.\n" +
-    "3. Receive 3 points for each victory and no points when defeated. Victory is determined by remaining HP at the end of each battle.\n" +
-    "4. During battles, character and pet skills will be used according to the pre-set sequence.\n" +
-    "5. Damaged caused in the Arena is equal to 10% of normal damage.\n" +
-    "",
+    "1: Group assignments, points and rankings\n" +
+    "    reset every Monday at 00:00\n" +
+    "2: Challenge chance, points and rankings\n" +
+    "    reset every day at 00:00. Ranking\n" +
+    "    rewards are distributed at that time.\n" +
+    "3: Receive 3 points for each victory and no\n" +
+    "    points when defeated. Victory is\n" +
+    "    determined by remaining HP at the end\n" +
+    "    of each battle.\n" +
+    "4: During battles, character and pet skills\n" +
+    "    will be used according to the pre-set\n" +
+    "    sequence you specify.\n" +
+    "5: Damaged caused in the Arena is equal\n" +
+    "    to 10% of normal damage.",
   7606: "Racing Champion Rewards",
   7607: "Racing First Runner-Up Rewards",
   7608: "Racing Second Runner-Up Rewards",
