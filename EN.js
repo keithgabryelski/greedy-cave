@@ -6779,15 +6779,22 @@ var svrExcel = {
     "Third Floor【Final Destination】\n" +
     "Activate the altars in order and unlock the seal. Then go to the next Floor.",
   5456:
-    "Floor One【Castle Entrance】 \n" +
-    "Defeat the monsters and find the passage to the next Floor.",
+    "Floor One【The Castle\n" +
+    "Entrance】 Defeat the\n" +
+    "monsters and find the\n" +
+    "passage to the next Floor.",
   5457:
-    "Floor Two 【Castle Corridor】 \n" +
-    "Defeat the horrid monsters and find your way.",
+    "Floor Two 【Castle Corridor】\n" +
+    "Defeat the horrid monsters\n" +
+    "and find your way.",
   5458:
-    "Floor Three 【Castle Tower】\n" + "This is where the real test beings.",
+    "Floor Three 【Castle Tower】\n" +
+    "This is where the real test\n" +
+    "beings.",
   5459:
-    "Floor Four 【The Castle】\n" + "Choose your path and challenge the BOSS!",
+    "Floor Four 【The Castle】\n" +
+    "Choose your path and\n" +
+    "challenge the BOSS!",
   5460: "Priest 1",
   5461: "Tank 1",
   5462: "Magic 1",
