@@ -6784,13 +6784,14 @@ var svrExcel = {
     "monsters and find the\n" +
     "passage to the next Floor.",
   5457:
-    "Floor Two 【Castle Corridor】\n" +
-    "Defeat the horrid monsters\n" +
-    "and find your way.",
+    "Floor Two 【The Castle\n" +
+    "Corridor】 Defeat the\n" +
+    "horrid monsters and\n" +
+    "find your way.",
   5458:
-    "Floor Three 【Castle Tower】\n" +
-    "This is where the real test\n" +
-    "beings.",
+    "Floor Three 【The Castle\n" +
+    "Tower】This is where the\n" +
+    "real test beings.",
   5459:
     "Floor Four 【The Castle】\n" +
     "Choose your path and\n" +
@@ -6892,7 +6893,10 @@ var svrExcel = {
   5554: "Castle Secretary",
   5555: "Castle Judge",
   5556: "Wise Old Man",
-  5557: "Above is the path to punishment and below is a path to even more punishment… choose wisely…",
+  5557:
+    "Above is the path to punishment and below\n" +
+    "is a path to even more punishment…\n" +
+    "Choose wisely…",
   5558: "Lost Adventurer",
   5559: "This is the path of punishment.",
   5560: "This is the path of even more punishment.",
@@ -7375,14 +7379,25 @@ var svrExcel = {
     "If only two of them are telling the truth, which two?",
   6032: "What? Who is that?",
   6033: "Congratulations to you, that is the right answer. Reward 3 Chest.",
-  6034: "Spirits from dead adventurers wander around. They were asked to choose a power, ice, poison, mana burn, or slow. If you want to get out of here alive you must get stronger, or you won't make it very far.",
-  6035: "What are we waiting for? You've got a lot to learn, kid!",
-  6036: "See those ugly things ahead?  Defeat them and I will reward you with a scroll.",
+  6034:
+    "Spirits from dead adventurers wander\n" +
+    "the caves. They were asked to choose\n" +
+    "a power: ice, poison, mana burn or slow.\n" +
+    "If you want to get out of here alive\n" +
+    "you must get stronger or you won't\n" +
+    "make it very far.",
+  6035: "What are we waiting for? You've got a lot\n" + "to learn, kid!",
+  6036:
+    "See those ugly things ahead? Defeat them\n" +
+    "and I will reward you with a scroll.",
   6037: "An Ice Overseer appears",
   6038: "A Paladin appears",
   6039: "Wisdom Knight appears",
   6040: "Grazelands Warrior appears",
-  6041: "This room is filled with dead spirits. Are you ready for a challenge? Remember you can only choose to defeat one of them.",
+  6041:
+    "This room is filled with dead spirits. Are\n" +
+    "you ready for a challenge? Remember you\n" +
+    "can only choose to defeat one of them.",
   6042: "Five",
   6043: "Six",
   6044: "A and D",
@@ -11316,52 +11331,52 @@ var svrLua = {
   128: "Event ended",
   129: "You already have {1}",
   130: "You successfully activated {1}",
-  131: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>defeated BOSS Cultist（Expedition 1）",
-  132: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>defeated BOSS Cultist（Hard Difficulty）",
-  133: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>defeated BOSS Homunculus（Expedition 3）",
-  134: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>defeated BOSS Dr. Heimfeld（Expedition 3）",
-  135: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>defeated BOSS Dark Prince（Expedition 3）",
-  136: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>cleared The Greedy Challenge - Foggy Forest (Expedition 3）",
-  137: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>cleared The Greedy Challenge - Death Cemetery（Expedition 3）",
-  138: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>cleared The Greedy Challenge - Wishing Well（Expedition 3）",
-  139: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Explorer Ⅴ",
-  140: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Cave Miner Ⅴ",
-  141: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Monster Striker Ⅴ",
-  142: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Mystery Chest Ⅴ",
-  143: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Normal Chest Ⅴ",
-  144: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Magic Pot Ⅴ",
-  145: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Pile of Bones Ⅴ",
-  146: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Golden Pouch Ⅴ",
-  147: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Arcana Ⅲ",
-  148: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Gold Equipment Ⅴ",
-  149: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Dark Gold Equipment Ⅴ",
-  150: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：No more searching!",
-  151: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Chamber Ⅴ",
-  152: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Digger Ⅲ",
-  153: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Greeder Ⅴ",
-  154: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Perseverance",
-  155: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Enhance Ⅳ",
-  156: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Max Enhance Ⅳ",
-  157: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Enchant Ⅴ",
-  158: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Gold finger Ⅴ",
-  159: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Gambler Ⅴ",
-  160: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Dream Trial Ⅰ",
-  161: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>with great effort, received the achievement：Rune obsidian Ⅴ",
-  162: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>was lucky and got a unique weapon: {2}",
-  163: "Congratulations <font color='#6c460a'>{1}</font><font color='#000000'>:</font>activated VIP I",
-  164: "Congratulations <font color='#6c460a'>{1}</font><font color='#000000'>:</font>activated VIP Ⅱ",
-  165: "Congratulations <font color='#6c460a'>{1}</font><font color='#000000'>:</font>activated VIP Ⅲ",
-  166: "Congratulations <font color='#6c460a'>{1}</font><font color='#000000'>:</font>activated VIP Ⅳ",
-  167: "Congratulations <font color='#6c460a'>{1}</font><font color='#000000'>:</font>activated VIP V",
-  168: "Congratulations <font color='#6c460a'>{1}</font><font color='#000000'>:</font>activated VIP VI",
-  169: "Congratulations <font color='#6c460a'>{1}</font><font color='#000000'>:</font>activated VIP VⅡ",
-  170: "Congratulations <font color='#6c460a'>{1}</font><font color='#000000'>:</font>activated VIP VⅢ",
-  171: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>had some luck and found rare treasures.",
-  172: "<font color='#6c460a'>{1} '</font><font color='#000000'>:</font>reached level 70. Can anyone stop them?",
-  173: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>was very lucky and received <font color='#EB7B29'>“{2}”</font><font color='#000000'>:</font>now who is BOSS?",
+  131: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>defeated BOSS Cultist（Expedition 1）",
+  132: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>defeated BOSS Cultist（Hard Difficulty）",
+  133: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>defeated BOSS Homunculus（Expedition 3）",
+  134: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>defeated BOSS Dr. Heimfeld（Expedition 3）",
+  135: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>defeated BOSS Dark Prince（Expedition 3）",
+  136: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>cleared The Greedy Challenge - Foggy Forest (Expedition 3）",
+  137: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>cleared The Greedy Challenge - Death Cemetery（Expedition 3）",
+  138: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>cleared The Greedy Challenge - Wishing Well（Expedition 3）",
+  139: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Explorer Ⅴ",
+  140: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Cave Miner Ⅴ",
+  141: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Monster Striker Ⅴ",
+  142: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Mystery Chest Ⅴ",
+  143: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Normal Chest Ⅴ",
+  144: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Magic Pot Ⅴ",
+  145: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Pile of Bones Ⅴ",
+  146: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Golden Pouch Ⅴ",
+  147: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Arcana Ⅲ",
+  148: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Gold Equipment Ⅴ",
+  149: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Dark Gold Equipment Ⅴ",
+  150: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：No more searching!",
+  151: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Chamber Ⅴ",
+  152: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Digger Ⅲ",
+  153: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Greeder Ⅴ",
+  154: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Perseverance",
+  155: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Enhance Ⅳ",
+  156: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Max Enhance Ⅳ",
+  157: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Enchant Ⅴ",
+  158: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Gold finger Ⅴ",
+  159: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Gambler Ⅴ",
+  160: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Dream Trial Ⅰ",
+  161: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>with great effort, received the achievement：Rune obsidian Ⅴ",
+  162: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>was lucky and got a unique weapon: {2}",
+  163: "Congratulations <font color='#6c460a'>{1}</font><font color='#00000000'>:</font>activated VIP I",
+  164: "Congratulations <font color='#6c460a'>{1}</font><font color='#00000000'>:</font>activated VIP Ⅱ",
+  165: "Congratulations <font color='#6c460a'>{1}</font><font color='#00000000'>:</font>activated VIP Ⅲ",
+  166: "Congratulations <font color='#6c460a'>{1}</font><font color='#00000000'>:</font>activated VIP Ⅳ",
+  167: "Congratulations <font color='#6c460a'>{1}</font><font color='#00000000'>:</font>activated VIP V",
+  168: "Congratulations <font color='#6c460a'>{1}</font><font color='#00000000'>:</font>activated VIP VI",
+  169: "Congratulations <font color='#6c460a'>{1}</font><font color='#00000000'>:</font>activated VIP VⅡ",
+  170: "Congratulations <font color='#6c460a'>{1}</font><font color='#00000000'>:</font>activated VIP VⅢ",
+  171: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>had some luck and found rare treasures.",
+  172: "<font color='#6c460a'>{1} '</font><font color='#00000000'>:</font>reached level 70. Can anyone stop them?",
+  173: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>was very lucky and received <font color='#EB7B29'>“{2}”</font><font color='#00000000'>:</font>now who is BOSS?",
   174: "Received Crystals{1}",
-  175: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>got a new Week Card! They can now claim rewards daily.",
-  176: "<font color='#6c460a'>{1}</font><font color='#000000'>:</font>got a new Month Card! They can now claim great rewards daily.",
+  175: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>got a new Week Card! They can now claim rewards daily.",
+  176: "<font color='#6c460a'>{1}</font><font color='#00000000'>:</font>got a new Month Card! They can now claim great rewards daily.",
   177: "Insufficient items",
   178: "Can't buy",
   179: "{1}：{2}\n",
